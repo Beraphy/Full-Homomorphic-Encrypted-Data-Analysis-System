@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/back">
+        <file>image/background.png</file>
+        <file>image/login.png</file>
+        <file>image/pic1.png</file>
+        <file>image/pic2.png</file>
+        <file>image/pic3.png</file>
+        <file>image/pic4.png</file>
+        <file>image/pic5.png</file>
+        <file>image/pic6.png</file>
+        <file>image/pic7.png</file>
+        <file>image/background2.png</file>
+        <file>image/pic9.png</file>
+        <file>image/background3.png</file>
+        <file>image/close.png</file>
+        <file>image/max.png</file>
+        <file>image/min.png</file>
+        <file>image/logo.png</file>
+        <file>image/title.png</file>
+        <file>image/open.png</file>
+        <file>image/save.png</file>
+        <file>image/update.png</file>
+        <file>image/info.png</file>
+        <file>image/infotxt.png</file>
+        <file>image/logo.gif</file>
+        <file>image/dec.png</file>
+    </qresource>
+</RCC>
